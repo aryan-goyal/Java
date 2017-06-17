@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ stanford-corenlp-3.7.0.jar stanford-corenlp-3.7.0-
+ javadoc.jar stanford-corenlp-3.7.0-models.jar stanford-corenlp-3.7.0-
+ sources.jar ejml-0.23.jar javax.json.jar javax.json-api-1.0-sources.j
+ ar joda-time.jar joda-time-2.9-sources.jar jollyday.jar jollyday-0.4.
+ 9-sources.jar protobuf.jar slf4j-api.jar slf4j-simple.jar xom.jar xom
+ -1.2.10-src.jar
+Class-Path: .
+Rsrc-Main-Class: chatBot.Main
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
