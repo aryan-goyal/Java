@@ -1,4 +1,5 @@
 # Computer-Science-IB Program (High School)
+**Majority of the exercises and projects were are from Blue Pelican Java by Charles Emerson Cook and Big Java by Cay S. Horstmann
 
 **Computer Science 201 (Object-Based Programming Fundamentals):**
 - Systematic class design using a subset of UML (Unified Modelling Language), test driven development, debugging and error handling are introduced. Recursion, inheri-tance and polymorphism
